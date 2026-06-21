@@ -1,4 +1,4 @@
-# Noche de suspiros eternos
+# Noche de suspiros eternos, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Noche de suspiros eternos |
+| **Title** | Noche de suspiros eternos, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-suspiros-eternos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Noche de suspiros eternos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-suspiros-eternos/) |
+| **Get License** | [Music Rights & Licensing for Noche de suspiros eternos, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-suspiros-eternos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Mami, me miras y el mundo se va,
+> Tú tienes un aura que me trae p'acá,
+> You know that tonight tú no vas a escapar,
+> Bajo las luces te voy a besar.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `ae884cd95955d761cdf1b0427f15ed0bc723babc74d566492dbf4f7a4c17ef94` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
